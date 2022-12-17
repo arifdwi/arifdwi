@@ -23,58 +23,15 @@
         "ImageBannerURL" : "https://www.google.com",
 
         //LIST UNIT ADMOB
-        "BannerAdmob_com.zorodev.spy_x_family.wallpapers.spyxfamily": "ca-app-pub-3940256099942544/6300978111",
-        "BannerAdmob_com.zorodev.alejo_igoa.wallpapers.alejoigoa": "ca-app-pub-3940256099942544/6300978111",
-        "BannerAdmob_com.zorodev.roman_reigns.wallpapers.romanreigns": "ca-app-pub-3940256099942544/6300978111",
-        "BannerAdmob_com.zorodev.turning_red.wallpapers.turningred": "ca-app-pub-3940256099942544/6300978111",
-        "BannerAdmob_com.zorodev.aot.wallpapers.attackontitan": "ca-app-pub-3940256099942544/6300978111",
-        "BannerAdmob_com.zorodev.valya_karnaval.wallpapers.valyakarnaval": "ca-app-pub-3940256099942544/6300978111",
-        "BannerAdmob_com.zorodev.egor_ship.wallpapers.egorship": "ca-app-pub-3940256099942544/6300978111",
-        "BannerAdmob_com.zorodev.mirabel_encanto.wallpapers.encantofamily": "ca-app-pub-3940256099942544/6300978111",
-        "BannerAdmob_com.zorodev.broken_screen.wallpapers.brokenscreen": "ca-app-pub-3940256099942544/6300978111",
-        "BannerAdmob_com.zorodev.likenastya.wallpapers.likenastya": "ca-app-pub-3940256099942544/6300978111",
-        "BannerAdmob_com.fans.durgamaa": "ca-app-pub-3940256099942544/6300978111",
-        "BannerAdmob_com.fans.pailita": "ca-app-pub-3940256099942544/6300978111",
-        "BannerAdmob_com.fans.alanchikinchow": "ca-app-pub-3940256099942544/6300978111",
+        "BannerAdmob_com.packagename": "ca-app-pub-3940256099942544/6300978111",
 
 
 
-        "InterstitialAdmob_com.zorodev.spy_x_family.wallpapers.spyxfamily": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.zorodev.alejo_igoa.wallpapers.alejoigoa": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.zorodev.roman_reigns.wallpapers.romanreigns": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.zorodev.turning_red.wallpapers.turningred": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.zorodev.aot.wallpapers.attackontitan": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.zorodev.valya_karnaval.wallpapers.valyakarnaval": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.zorodev.egor_ship.wallpapers.egorship": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.zorodev.mirabel_encanto.wallpapers.encantofamily": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.zorodev.broken_screen.wallpapers.brokenscreen": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.zorodev.likenastya.wallpapers.likenastya": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.fans.durgamaa": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.fans.pailita": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.fans.alanchikinchow": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.carwallpapers.alfaromeogiulia": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.carwallpapers.toyota86": "ca-app-pub-3940256099942544/1033173712",
-        "InterstitialAdmob_com.fans.karolsevilla": "ca-app-pub-3940256099942544/1033173712",
+        "InterstitialAdmob_com.packagename": "ca-app-pub-3940256099942544/1033173712",
 
 
-        "NativeAdmob_com.zorodev.spy_x_family.wallpapers.spyxfamily": "ca-app-pub-2477499279014248/7125964051",
-        "NativeAdmob_com.zorodev.alejo_igoa.wallpapers.alejoigoa": "ca-app-pub-2477499279014248/5262218046",
-        "NativeAdmob_com.zorodev.roman_reigns.wallpapers.romanreigns": "ca-app-pub-2477499279014248/9668512706",
-        "NativeAdmob_com.zorodev.turning_red.wallpapers.turningred": "ca-app-pub-2477499279014248/6530233536",
-        "NativeAdmob_com.zorodev.aot.wallpapers.attackontitan": "ca-app-pub-2477499279014248/3374421307",
-        "NativeAdmob_com.zorodev.valya_karnaval.wallpapers.valyakarnaval": "ca-app-pub-2477499279014248/3182849613",
+        "NativeAdmob_ccom.packagename": "ca-app-pub-2477499279014248/7125964051",
 
-        "NativeAdmob_com.fans.durgamaa": "ca-app-pub-3940256099942544/2247696110",
-        "NativeAdmob_com.fans.pailita": "ca-app-pub-3940256099942544/2247696110",
-        "NativeAdmob_com.fans.alanchikinchow": "ca-app-pub-3940256099942544/2247696110",
-        "NativeAdmob_com.fans.karolshevilla": "ca-app-pub-3940256099942544/2247696110",
-        "NativeAdmob_com.zorodev.egor_ship.wallpapers.egorship": "ca-app-pub-3940256099942544/2247696110",
-        "NativeAdmob_com.zorodev.mirabel_encanto.wallpapers.encantofamily": "ca-app-pub-3940256099942544/2247696110",
-        "NativeAdmob_com.zorodev.broken_screen.wallpapers.brokenscreen": "ca-app-pub-3940256099942544/2247696110",
-        "NativeAdmob_com.zorodev.likenastya.wallpapers.likenastya": "ca-app-pub-3940256099942544/2247696110",
-        "NativeAdmob_com.carwallpapers.alfaromeogiulia": "ca-app-pub-3940256099942544/2247696110",
-        "NativeAdmob_com.carwallpapers.toyota86": "ca-app-pub-3940256099942544/2247696110",
-        "NativeAdmob_com.fans.karolsevilla": "ca-app-pub-3940256099942544/2247696110",
 
         // LIST UPDATE APLIKASI by Package Name
         "update_com.zorodev.spy_x_family.wallpapers.spyxfamily":"",
@@ -110,24 +67,7 @@
         "update_com.themanfrom.thewindow.tips.guide":"",
         "update_com.example.wallpaper":""
     
-      },
-      
-
-    "items": [
-      {
-        "title": "UPDATE",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "color": "#000000",
-        "text_size": "25",
-        "isLink": true,
-		"link_title": "Get Coins",
-		"setLink": "https://www.google.com",
-        "image_link": "https://www.google.com",
-        "text": "UPDATE APLIKASI",
-        "isNative": false,
-		"background": "#00FF00"
       }
-    ]
 
   }
 }
