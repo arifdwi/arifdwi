@@ -2,6 +2,7 @@
   "AdsData": {
       "AdsController": 
       {
+        //SETTING DEFAULT
         "Play_Store": "",
 
         "BannerAd": "admob",
@@ -12,11 +13,6 @@
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-    
-        "unity_game_id": "4527897",
-        "unity_test": false,
-        "unity_banner": "banner_arif",
-        "unity_interstitial": "Arif",
 
         "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
