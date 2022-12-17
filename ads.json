@@ -1,11 +1,11 @@
 {
   "AdsData": {
-      "ZoroDev": 
+      "AdsController": 
       {
         "Play_Store": "",
 
-        "BannerAd": "unity",
-        "InterstitialAd": "unity",
+        "BannerAd": "admob",
+        "InterstitialAd": "admob",
         "NativeAd": "admob",
         "Interval_Interstitial": 3,
     
@@ -25,46 +25,12 @@
         //LIST UNIT ADMOB
         "BannerAdmob_com.packagename": "ca-app-pub-3940256099942544/6300978111",
 
-
-
         "InterstitialAdmob_com.packagename": "ca-app-pub-3940256099942544/1033173712",
-
 
         "NativeAdmob_ccom.packagename": "ca-app-pub-2477499279014248/7125964051",
 
-
         // LIST UPDATE APLIKASI by Package Name
-        "update_com.zorodev.spy_x_family.wallpapers.spyxfamily":"",
-        "update_com.zorodev.alejo_igoa.wallpapers.alejoigoa":"",
-        "update_com.zorodev.roman_reigns.wallpapers.romanreigns":"",
-        "update_com.zorodev.turning_red.wallpapers.turningred":"",
-        "update_com.zorodev.aot.wallpapers.attackontitan":"",
-        "update_com.zorodev.valya_karnaval.wallpapers.valyakarnaval":"",
-        "update_com.zorodev.egor_ship.wallpapers.egorship":"",
-        "update_com.zorodev.mirabel_encanto.wallpapers.encantofamily":"",
-        "update_com.zorodev.broken_screen.wallpapers.brokenscreen":"",
-        "update_com.zorodev.likenastya.wallpapers.likenastya":"",
-
-        "update_com.carwallpapers.nissanskyline":"",
-        "update_com.carwallpapers.fordescort":"",
-        "update_com.carwallpapers.bmw3series":"",
-        "update_com.carwallpapers.dodgeelectric":"",
-        "update_com.carwallpapers.koenigsegg":"",
-        "update_com.carwallpapers.nissansilvia":"",
-        "update_com.carwallpapers.chevroletimpala":"",
-        "update_com.carwallpapers.mazdamx":"",
-        "update_com.carwallpapers.dodgechallengerhellcat":"",
-        "update_com.carwallpapers.audiq5":"",
-        "update_com.fans.durgamaa":"",
-        "update_com.fans.pailita":"",
-        "update_com.fans.alanchikinchow":"",
-
-        "update_com.carwallpapers.alfaromeogiulia":"",
-        "update_com.carwallpapers.toyota86":"",
-        "update_com.fans.karolsevilla":"",
-
-
-        "update_com.themanfrom.thewindow.tips.guide":"",
+        "update_com.packagename":"",
         "update_com.example.wallpaper":""
     
       }
